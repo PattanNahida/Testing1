@@ -22,6 +22,7 @@ public void testGitHublogic()
 	String title=driver.getTitle();
 	Assert.assertEquals(title, "Github");
 	System.out.println("continue with testcode");
+	System.out.println("continue ");
 	
 }
 }
